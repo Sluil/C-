@@ -1,4 +1,4 @@
-# C-
+# C++
 Object-Oriented Programming Using C++ by Joyce Farrell, Fourth Edition
 
 My name is **Matt aka Sluil**, and I have will or have (depending on when this is read) graduated May 2018 from a two year community college. I have learned the following languages since 2015 to now (2018).
